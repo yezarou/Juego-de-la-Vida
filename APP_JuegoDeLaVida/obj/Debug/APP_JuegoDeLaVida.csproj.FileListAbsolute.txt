@@ -1,0 +1,7 @@
+C:\Users\yezar\source\repos\APP_JuegoDeLaVida\APP_JuegoDeLaVida\obj\Debug\APP_JuegoDeLaVida.csprojResolveAssemblyReference.cache
+C:\Users\yezar\source\repos\APP_JuegoDeLaVida\APP_JuegoDeLaVida\obj\Debug\APP_JuegoDeLaVida.csproj.CoreCompileInputs.cache
+C:\Users\yezar\source\repos\APP_JuegoDeLaVida\APP_JuegoDeLaVida\bin\Debug\APP_JuegoDeLaVida.exe.config
+C:\Users\yezar\source\repos\APP_JuegoDeLaVida\APP_JuegoDeLaVida\bin\Debug\APP_JuegoDeLaVida.exe
+C:\Users\yezar\source\repos\APP_JuegoDeLaVida\APP_JuegoDeLaVida\bin\Debug\APP_JuegoDeLaVida.pdb
+C:\Users\yezar\source\repos\APP_JuegoDeLaVida\APP_JuegoDeLaVida\obj\Debug\APP_JuegoDeLaVida.exe
+C:\Users\yezar\source\repos\APP_JuegoDeLaVida\APP_JuegoDeLaVida\obj\Debug\APP_JuegoDeLaVida.pdb
